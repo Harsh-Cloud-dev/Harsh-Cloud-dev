@@ -1,20 +1,14 @@
-<html>
-<body>
-    <h1> Harsh Thalwal </h1>
-</body>
-</html>
+## 👋 Hey, I'm Harsh Thalwal
 
-<!--
-**Harsh-Cloud-dev/Harsh-Cloud-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm someone who loves understanding how things *really* work at a low level.  
+Have you ever tried printing `Hello, World` in C **without `printf`**…  
+or printing `"hello world"` **without the string ever appearing in your codebase**?
 
-Here are some ideas to get you started:
+Yeah, I enjoy that kind of stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech student, a YouTube creator, and someone who spends a lot of time exploring
+the internals of systems — compilers, interpreters, memory, operating systems, and how
+programs behave under the hood.
+
+I write code because I’m curious, not because I have to.
+And every day, I try to push one layer deeper into how computers actually work.
