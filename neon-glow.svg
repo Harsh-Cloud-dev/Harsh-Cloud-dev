@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1200 12" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="neon divider">
+  <defs>
+    <!-- glow filter -->
+    <filter id="glow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- gradient for the moving bright bar -->
+    <linearGradient id="g" x1="0%" x2="100%">
+      <stop offset="0%"  stop-color="#6ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#6ff" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#b3f" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b3f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base faint line -->
+  <rect x="0" y="4" width="1200" height="4" rx="2" fill="#0f1724" opacity="0.25"/>
+
+  <!-- outer soft glow -->
+  <rect x="0" y="2" width="1200" height="8" rx="4" fill="#0f1724" opacity="0.16" filter="url(#glow)"/>
+
+  <!-- moving bright gradient bar -->
+  <rect id="bar" x="-240" y="2" width="240" height="8" rx="4" fill="url(#g)" filter="url(#glow)">
+    <animate attributeName="x" from="-240" to="1200" dur="2.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;0.9;0" dur="2.8s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- subtle second streak for color blend -->
+  <rect x="-400" y="3.4" width="160" height="4" rx="3" fill="#a8f" opacity="0.25" filter="url(#glow)">
+    <animate attributeName="x" from="-400" to="1200" dur="3.6s" repeatCount="indefinite" />
+  </rect>
+</svg>

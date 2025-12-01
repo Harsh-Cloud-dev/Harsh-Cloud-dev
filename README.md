@@ -26,19 +26,25 @@ And every day, I try to push one layer deeper into how computers actually work.
 
 ## 🧰 Tech Stack
 
-Tech I use daily to build, break, and understand how systems work at a deeper level.
+Tech I use daily to build, break, and understand how systems work at a deeper level —  
+focused, low-level-first, and production-minded.
 
-### 🖥️ Languages I’m comfortable with  
+### 🖥️ Languages I’m comfortable with
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts" height="48" />
 </p>
 
-### ⚙️ Tools & Systems I enjoy working with  
+### ⚙️ Tools & Systems I enjoy working with
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,neovim,vim" height="48" />
 </p>
 
-### 🛠️ Backend, DevOps & Cloud  
+### 🛠️ Backend, DevOps & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,aws,docker" height="48" />
 </p>
+
+<p align="center">
+  <img src="neon-glow.svg" style="width: 100%;" alt="neon divider"/>
+</p>
+
