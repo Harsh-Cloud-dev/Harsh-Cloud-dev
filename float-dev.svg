@@ -1,0 +1,12 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        font-size="40" opacity="0.9">
+    💻
+    <animate 
+      attributeName="y"
+      values="50%;45%;50%"
+      dur="2.5s"
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>

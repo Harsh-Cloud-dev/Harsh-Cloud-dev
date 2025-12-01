@@ -1,4 +1,8 @@
-## 👋 Hey, I'm Harsh Thalwal
+## 👋 Hey, I'm Harsh Thalwal <img src="pulse.svg" width="18">
+
+<p align="left">
+  <img src="float-dev.svg" width="100" align="right">
+</p>
 
 I'm someone who loves understanding how things *really* work at a low level.  
 Have you ever tried printing `Hello, World` in C **without `printf`**…  
@@ -12,3 +16,5 @@ programs behave under the hood.
 
 I write code because I’m curious, not because I have to.
 And every day, I try to push one layer deeper into how computers actually work.
+
+<p align="center"><img src="underline.svg"></p>
