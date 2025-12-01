@@ -20,3 +20,5 @@ And every day, I try to push one layer deeper into how computers actually work.
 <p align="center">
   <img src="underline-full.svg" style="width: 100%;">
 </p>
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/clanguageuser?theme=dark&font=Karma&ext=contest)
