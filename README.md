@@ -1,7 +1,7 @@
-## 👋 Hey, I'm Harsh Thalwal <img src="pulse.svg" width="18">
+## 👋 Hey, I'm Harsh Thalwal <img src="pulse.svg" width="40">
 
 <p align="right">
-  <img src="float-dev.svg" width="120">
+  <img src="float-dev.svg" width="120" align='right'>
 </p>
 
 I'm someone who loves understanding how things *really* work at a low level.  
