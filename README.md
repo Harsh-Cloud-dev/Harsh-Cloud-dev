@@ -36,7 +36,7 @@ focused, low-level-first, and production-minded.
 
 ### ⚙️ Tools & Systems I enjoy working with
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,neovim,vim" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,neovim" height="48" />
 </p>
 
 ### 🛠️ Backend, DevOps & Cloud
