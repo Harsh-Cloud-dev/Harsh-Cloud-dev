@@ -23,3 +23,22 @@ And every day, I try to push one layer deeper into how computers actually work.
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh?theme=dark&font=Karma&ext=contest)
+
+## 🧰 Tech Stack
+
+Tech I use daily to build, break, and understand how systems work at a deeper level.
+
+### 🖥️ Languages I’m comfortable with  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts" height="48" />
+</p>
+
+### ⚙️ Tools & Systems I enjoy working with  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,neovim,vim" height="48" />
+</p>
+
+### 🛠️ Backend, DevOps & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,aws,docker" height="48" />
+</p>
