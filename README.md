@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Harsh Thalwal <img src="pulse.svg" width="40">
+## 👋 Hey, I'm ChairSleeper <img src="pulse.svg" width="40">
 
 <p align="right">
   <img src="float-dev.svg" width="120" align='right'>
